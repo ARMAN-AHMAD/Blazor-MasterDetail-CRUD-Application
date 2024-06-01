@@ -1,0 +1,11 @@
+D:\Github\Projects\Blazor\CarService\CarService.Shared\bin\Debug\net8.0\CarService.Shared.deps.json
+D:\Github\Projects\Blazor\CarService\CarService.Shared\bin\Debug\net8.0\CarService.Shared.dll
+D:\Github\Projects\Blazor\CarService\CarService.Shared\bin\Debug\net8.0\CarService.Shared.pdb
+D:\Github\Projects\Blazor\CarService\CarService.Shared\obj\Debug\net8.0\CarService.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\Projects\Blazor\CarService\CarService.Shared\obj\Debug\net8.0\CarService.Shared.AssemblyInfoInputs.cache
+D:\Github\Projects\Blazor\CarService\CarService.Shared\obj\Debug\net8.0\CarService.Shared.AssemblyInfo.cs
+D:\Github\Projects\Blazor\CarService\CarService.Shared\obj\Debug\net8.0\CarService.Shared.csproj.CoreCompileInputs.cache
+D:\Github\Projects\Blazor\CarService\CarService.Shared\obj\Debug\net8.0\CarService.Shared.dll
+D:\Github\Projects\Blazor\CarService\CarService.Shared\obj\Debug\net8.0\refint\CarService.Shared.dll
+D:\Github\Projects\Blazor\CarService\CarService.Shared\obj\Debug\net8.0\CarService.Shared.pdb
+D:\Github\Projects\Blazor\CarService\CarService.Shared\obj\Debug\net8.0\ref\CarService.Shared.dll
